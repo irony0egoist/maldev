@@ -11,7 +11,7 @@ https://github.com/projectdiscovery/subfinder
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/D3Ext/maldev/src/slices"
+	"github.com/irony0egoist/maldev/src/slices"
 	"io/ioutil"
 	"net/http"
 	"strings"

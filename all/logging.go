@@ -1,6 +1,6 @@
 package all
 
-import "github.com/D3Ext/maldev/src/logging"
+import "github.com/irony0egoist/maldev/src/logging"
 
 func Success(v ...interface{}) {
   logging.Success(v...)

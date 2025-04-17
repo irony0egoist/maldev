@@ -1,7 +1,7 @@
 package all
 
 import (
-	"github.com/D3Ext/maldev/src/exec"
+	"github.com/irony0egoist/maldev/src/exec"
 	"golang.org/x/sys/windows"
 )
 

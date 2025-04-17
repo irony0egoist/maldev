@@ -1,7 +1,7 @@
 package all
 
 import (
-	"github.com/D3Ext/maldev/src/scanning"
+	"github.com/irony0egoist/maldev/src/scanning"
 	wp "github.com/likexian/whois-parser"
 )
 

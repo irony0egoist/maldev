@@ -1,7 +1,7 @@
 package all
 
 import (
-	"github.com/D3Ext/maldev/src/process"
+	"github.com/irony0egoist/maldev/src/process"
 	ps "github.com/mitchellh/go-ps"
 )
 

@@ -16,10 +16,10 @@ import (
 	"time"
 	"unsafe"
 
-	filesm "github.com/D3Ext/maldev/src/files"
-	netm "github.com/D3Ext/maldev/src/network"
-	proc "github.com/D3Ext/maldev/src/process"
-	sysm "github.com/D3Ext/maldev/src/system"
+	filesm "github.com/irony0egoist/maldev/src/files"
+	netm "github.com/irony0egoist/maldev/src/network"
+	proc "github.com/irony0egoist/maldev/src/process"
+	sysm "github.com/irony0egoist/maldev/src/system"
 
 	"golang.org/x/sys/windows"
 )

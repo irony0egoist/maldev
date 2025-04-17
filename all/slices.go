@@ -1,6 +1,6 @@
 package all
 
-import "github.com/D3Ext/maldev/src/slices"
+import "github.com/irony0egoist/maldev/src/slices"
 
 func StringSliceContains(src []string, str_to_check string) bool {
 	return slices.StringSliceContains(src, str_to_check)

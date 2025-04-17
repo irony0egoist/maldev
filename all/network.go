@@ -3,7 +3,7 @@ package all
 import (
 	"net/url"
 
-	"github.com/D3Ext/maldev/src/network"
+	"github.com/irony0egoist/maldev/src/network"
 )
 
 func GetAllInterfaces() ([]string, error) {

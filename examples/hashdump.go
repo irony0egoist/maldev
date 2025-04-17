@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/D3Ext/maldev/src/redteam"
+	"github.com/irony0egoist/maldev/src/redteam"
 )
 
 func main() {

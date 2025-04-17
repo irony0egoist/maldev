@@ -1,6 +1,6 @@
 package all
 
-import "github.com/D3Ext/maldev/src/misc"
+import "github.com/irony0egoist/maldev/src/misc"
 
 func RandomString(length int) string {
 	return misc.RandomString(length)

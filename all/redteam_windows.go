@@ -1,7 +1,7 @@
 package all
 
 import (
-	"github.com/D3Ext/maldev/src/redteam"
+	"github.com/irony0egoist/maldev/src/redteam"
 	"golang.org/x/sys/windows"
 )
 

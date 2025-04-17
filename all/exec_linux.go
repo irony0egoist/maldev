@@ -1,6 +1,6 @@
 package all
 
-import "github.com/D3Ext/maldev/src/exec"
+import "github.com/irony0egoist/maldev/src/exec"
 
 func ExecuteCommand(comm string) string {
 	return exec.ExecuteCommand(comm)

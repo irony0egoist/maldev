@@ -1,6 +1,6 @@
 package all
 
-import "github.com/D3Ext/maldev/src/files"
+import "github.com/irony0egoist/maldev/src/files"
 
 func Exists(src string) bool {
 	return files.Exists(src)

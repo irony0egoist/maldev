@@ -17,8 +17,8 @@ import (
 	"strings"
 
 	// Maldev packages
-	l "github.com/D3Ext/maldev/src/logging"
-	"github.com/D3Ext/maldev/src/misc"
+	l "github.com/irony0egoist/maldev/src/logging"
+	"github.com/irony0egoist/maldev/src/misc"
 )
 
 func main() {

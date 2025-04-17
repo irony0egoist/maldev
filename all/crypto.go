@@ -1,6 +1,6 @@
 package all
 
-import "github.com/D3Ext/maldev/src/crypto"
+import "github.com/irony0egoist/maldev/src/crypto"
 
 func AESEncrypt(plaintext []byte, iv []byte, key []byte) ([]byte, error) {
 	return crypto.AESEncrypt(plaintext, iv, key)

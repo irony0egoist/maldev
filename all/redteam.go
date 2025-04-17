@@ -1,6 +1,6 @@
 package all
 
-import "github.com/D3Ext/maldev/src/redteam"
+import "github.com/irony0egoist/maldev/src/redteam"
 
 func GetShellcodeFromUrl(sc_url string) ([]byte, error) {
 	return redteam.GetShellcodeFromUrl(sc_url)

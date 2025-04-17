@@ -1,10 +1,9 @@
-module github.com/D3Ext/maldev
+module github.com/irony0egoist/maldev
 
-go 1.19
+go 1.20
 
 require (
 	github.com/C-Sto/gosecretsdump v0.3.1
-	github.com/D3Ext/Hooka v0.0.0-20230511152540-c0b42c6d87aa
 	github.com/FourCoreLabs/EDRHunt v1.4.4
 	github.com/alwindoss/morse v1.0.1
 	github.com/briandowns/spinner v1.23.0

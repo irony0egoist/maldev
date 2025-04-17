@@ -8,10 +8,10 @@ import (
 	"time"
 
 	// Maldev packages
-	"github.com/D3Ext/maldev/src/crypto"
-	"github.com/D3Ext/maldev/src/files"
-	l "github.com/D3Ext/maldev/src/logging"
-	"github.com/D3Ext/maldev/src/redteam"
+	"github.com/irony0egoist/maldev/src/crypto"
+	"github.com/irony0egoist/maldev/src/files"
+	l "github.com/irony0egoist/maldev/src/logging"
+	"github.com/irony0egoist/maldev/src/redteam"
 )
 
 func main() {

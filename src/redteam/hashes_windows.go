@@ -29,8 +29,8 @@ import (
 
 	"github.com/C-Sto/gosecretsdump/pkg/ditreader"
 	"github.com/C-Sto/gosecretsdump/pkg/samreader"
-	"github.com/D3Ext/maldev/src/exec"
-	"github.com/D3Ext/maldev/src/system"
+	"github.com/irony0egoist/maldev/src/exec"
+	"github.com/irony0egoist/maldev/src/system"
 )
 
 type Hash struct {

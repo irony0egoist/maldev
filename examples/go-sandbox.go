@@ -7,8 +7,8 @@ import (
   "log"
   "fmt"
 
-	l "github.com/D3Ext/maldev/src/logging"
-	"github.com/D3Ext/maldev/src/redteam"
+	l "github.com/irony0egoist/maldev/src/logging"
+	"github.com/irony0egoist/maldev/src/redteam"
 )
 
 func main() {
